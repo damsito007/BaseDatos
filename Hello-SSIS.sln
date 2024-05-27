@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34003.232
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{C9674DCB-5085-4A16-B785-4C70DD1589BD}") = "Hello-SSIS", "Hello-SSIS.dtproj", "{C2174E89-D8D9-40DD-A2BB-EB34EF6CF554}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "dato", "dato", "{EDCCB74A-DB82-4B03-8453-3ED4F7FC750E}"
+	ProjectSection(SolutionItems) = preProject
+		..\..\Empleados.xml = ..\..\Empleados.xml
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Development|Default = Development|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C2174E89-D8D9-40DD-A2BB-EB34EF6CF554}.Development|Default.ActiveCfg = Development
+		{C2174E89-D8D9-40DD-A2BB-EB34EF6CF554}.Development|Default.Build.0 = Development
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D66D2085-3F47-4667-A52D-B5927BC42AA3}
+	EndGlobalSection
+EndGlobal
